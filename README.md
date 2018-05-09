@@ -6,7 +6,8 @@
 
  - children items in second list should be connected to their parents and rendered recursively (see list.jpg)
 
-```[
+```
+[
     {"id":1,"label":"List item 1","parent_id":0, "children": [
         {"id":5,"label":"List item 5","parent_id":1},
         {"id":6,"label":"List item 6","parent_id":1},
