@@ -4,7 +4,7 @@
 
  - first list should stay untouched
 
- - children items in second list should be connected to their parents and rendered recursively (see list.jpg)
+ - children items in second list should be connected to their parents and rendered recursively (see list.jpg), create a function and form a tree for it
 
 ```
 [
